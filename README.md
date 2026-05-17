@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/viveksingh202/LeetcodeSOL/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/viveksingh202/LeetcodeSOL/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1306-jump-game-iii](https://github.com/viveksingh202/LeetcodeSOL/tree/main/1306-jump-game-iii/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/viveksingh202/LeetcodeSOL/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/viveksingh202/LeetcodeSOL/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/viveksingh202/LeetcodeSOL/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [1306-jump-game-iii](https://github.com/viveksingh202/LeetcodeSOL/tree/main/1306-jump-game-iii/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [1306-jump-game-iii](https://github.com/viveksingh202/LeetcodeSOL/tree/main/1306-jump-game-iii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
