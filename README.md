@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0031-next-permutation/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0035-search-insert-position/) | Easy |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0031-next-permutation/) | Medium |
 | [0061-rotate-list](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0061-rotate-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0234-palindrome-linked-list/) | Easy |
