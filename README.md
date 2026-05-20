@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2078-two-furthest-houses-with-different-colors](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2540-minimum-common-value](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2540-minimum-common-value](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2540-minimum-common-value/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -178,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0342-power-of-four](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0342-power-of-four/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
