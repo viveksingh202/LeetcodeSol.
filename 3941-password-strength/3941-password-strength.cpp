@@ -1,24 +1,25 @@
 class Solution {
 public:
     int passwordStrength(string password) {
-        unordered_set<char>st(password.begin(), password.end());
-        int sum=0;
-        for(char ch:st){
-            int count=0;
-            if(ch>='a' && ch<='z'){
-                count=1;
-            } 
-            else if(ch>='A' && ch<='Z'){
-                count=2;
+        unordered_set<char> st(password.begin(), password.end());
+
+        int sum = 0;
+
+        for(char ch : st) {
+            if(ch >= 'a' && ch <= 'z') {
+                sum += 1;
             }
-            else if(ch>='0' && ch<='9'){
-                count=3;
-            } 
-            else{
-                count=5;
+            else if(ch >= 'A' && ch <= 'Z') {
+                sum += 2;
             }
-            sum+=count;
-        } 
-        return sum; 
+            else if(ch >= '0' && ch <= '9') {
+                sum += 3;
+            }
+            else {
+                sum += 5;
+            }
+        }
+
+        return sum;
     }
 };
