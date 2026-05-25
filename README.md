@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0283-move-zeroes](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0414-third-maximum-number/) | Easy |
+| [0495-teemo-attacking](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0495-teemo-attacking/) | Easy |
 | [0496-next-greater-element-i](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -211,5 +212,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0495-teemo-attacking](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0495-teemo-attacking/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
