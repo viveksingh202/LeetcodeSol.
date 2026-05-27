@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/viveksingh202/LeetcodeSOL/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/viveksingh202/LeetcodeSOL/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2215-find-the-difference-of-two-arrays](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2540-minimum-common-value](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0169-majority-element/) | Easy |
 | [0496-next-greater-element-i](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [2215-find-the-difference-of-two-arrays](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2540-minimum-common-value](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
