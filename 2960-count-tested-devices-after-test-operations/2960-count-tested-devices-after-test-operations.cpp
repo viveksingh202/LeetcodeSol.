@@ -8,9 +8,9 @@ public:
                 count++;
                 int j=i+1;
                 while(j<n){
-                    if(nums[j]>0){
+                   // if(nums[j]>0){
                         nums[j]=nums[j]-1;
-                    }
+                 //   }
                     j++;
                 }
             }    
