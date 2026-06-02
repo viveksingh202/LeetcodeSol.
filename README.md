@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3668-restore-finishing-order](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3668-restore-finishing-order/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/viveksingh202/LeetcodeSOL/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [2126-destroying-asteroids](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0283-move-zeroes/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2540-minimum-common-value/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [2540-minimum-common-value](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2540-minimum-common-value/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -236,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2078-two-furthest-houses-with-different-colors](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
