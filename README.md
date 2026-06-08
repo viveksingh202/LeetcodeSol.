@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2078-two-furthest-houses-with-different-colors](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2540-minimum-common-value](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0283-move-zeroes/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Binary Search
@@ -256,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0495-teemo-attacking](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0495-teemo-attacking/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2960-count-tested-devices-after-test-operations](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3701-compute-alternating-sum/) | Easy |
