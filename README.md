@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/viveksingh202/LeetcodeSOL/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/viveksingh202/LeetcodeSOL/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1344-angle-between-hands-of-a-clock](https://github.com/viveksingh202/LeetcodeSOL/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
