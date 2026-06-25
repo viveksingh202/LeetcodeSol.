@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3668-restore-finishing-order](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3668-restore-finishing-order/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3701-compute-alternating-sum/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -202,17 +203,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3120-count-the-number-of-special-characters-i](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3668-restore-finishing-order](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3668-restore-finishing-order/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0169-majority-element](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0169-majority-element/) | Easy |
 | [2960-count-tested-devices-after-test-operations](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -244,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1480-running-sum-of-1d-array](https://github.com/viveksingh202/LeetcodeSOL/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/viveksingh202/LeetcodeSOL/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -278,4 +283,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 <!---LeetCode Topics End-->
