@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0007-reverse-integer/) | Medium |
+| [0029-divide-two-integers](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0029-divide-two-integers/) | Medium |
 | [0069-sqrtx](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0069-sqrtx/) | Easy |
 | [0342-power-of-four](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0342-power-of-four/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0445-add-two-numbers-ii/) | Medium |
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0029-divide-two-integers/) | Medium |
 | [0342-power-of-four](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0342-power-of-four/) | Easy |
 | [0645-set-mismatch](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0645-set-mismatch/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
