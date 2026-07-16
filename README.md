@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0035-search-insert-position/) | Easy |
 | [0046-permutations](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0046-permutations/) | Medium |
+| [0118-pascals-triangle](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0118-pascals-triangle/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0169-majority-element/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -268,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0118-pascals-triangle](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0118-pascals-triangle/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
