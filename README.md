@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0035-search-insert-position/) | Easy |
+| [0046-permutations](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0046-permutations/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0169-majority-element/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -308,4 +309,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0046-permutations](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0046-permutations/) | Medium |
 <!---LeetCode Topics End-->
