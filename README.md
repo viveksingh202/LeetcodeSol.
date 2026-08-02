@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0645-set-mismatch/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0877-stone-game](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0877-stone-game/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/viveksingh202/LeetcodeSOL/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1232-check-if-it-is-a-straight-line](https://github.com/viveksingh202/LeetcodeSOL/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0342-power-of-four/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0877-stone-game/) | Medium |
 | [1232-check-if-it-is-a-straight-line](https://github.com/viveksingh202/LeetcodeSOL/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/viveksingh202/LeetcodeSOL/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/viveksingh202/LeetcodeSOL/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
@@ -273,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0118-pascals-triangle](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0118-pascals-triangle/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0877-stone-game](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0877-stone-game/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -320,4 +323,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0046-permutations/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
