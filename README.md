@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Heap (Priority Queue)
@@ -330,4 +331,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0877-stone-game/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
