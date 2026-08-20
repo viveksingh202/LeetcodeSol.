@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2960-count-tested-devices-after-test-operations](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -295,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-partition-array-according-to-given-pivot](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2960-count-tested-devices-after-test-operations](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3925-concatenate-array-with-reverse/) | Easy |
