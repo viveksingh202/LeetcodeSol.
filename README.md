@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3668-restore-finishing-order](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3668-restore-finishing-order/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3701-compute-alternating-sum/) | Easy |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
