@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0551-student-attendance-record-i](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0551-student-attendance-record-i/) | Easy |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0445-add-two-numbers-ii/) | Medium |
@@ -340,4 +342,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
