@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0551-student-attendance-record-i](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0551-student-attendance-record-i/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/viveksingh202/LeetcodeSOL/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/viveksingh202/LeetcodeSOL/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0445-add-two-numbers-ii](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/viveksingh202/LeetcodeSOL/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/viveksingh202/LeetcodeSOL/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Tree
@@ -290,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -346,4 +349,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0020-valid-parentheses/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 <!---LeetCode Topics End-->
