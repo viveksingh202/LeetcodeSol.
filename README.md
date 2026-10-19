@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/viveksingh202/LeetcodeSOL/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/viveksingh202/LeetcodeSOL/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/viveksingh202/LeetcodeSOL/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/viveksingh202/LeetcodeSOL/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -199,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Breadth-First Search
